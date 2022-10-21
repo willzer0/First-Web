@@ -1,0 +1,26 @@
+<style>
+body {
+    
+    background-image:  url("akatsuki.png");
+    background-repeat:no-repeat scroll;
+    background-size: 100% 100%;
+    min-height: 650px;
+    }
+    h1{
+        color: lightseagreen;
+        font-family: arial;
+        font-style: italic;
+        text-decoration: underline;
+        text-transform: uppercase;
+    }
+    h3{
+        color: lightseagreen;
+        font-family: arial;
+        font-style: italic;
+    }
+    </style>
+    p{
+        text-align: center;
+        letter-spacing: 5px;
+        word-spacing: 10px;
+    }
